@@ -13,7 +13,8 @@
 
 
 Contact Details:
-https://www.linkedin.com/in/junita-lama-73b110252/overlay/contact-info/#:~:text=linkedin.com/in/junita%2Dlama%2D73b110252
+
+https://linkedin.com/in/junita-lama-73b110252
 
 lamajunitaa@gmail.com
 
