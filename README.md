@@ -12,7 +12,7 @@
 <h3 align="left">Contact details:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/junita-lama-73b110252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href = mailto:"lamajunitaa@gmail.com><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M22.288 21h-20.576c-.945 0-1.712-.767-1.712-1.712v-13.576c0-.945.767-1.712 1.712-1.712h20.576c.945 0 1.712.767 1.712 1.712v13.576c0 .945-.767 1.712-1.712 1.712zm-10.288-6.086l-9.342-6.483-.02 11.569h18.684v-11.569l-9.322 6.483zm8.869-9.914h-17.789l8.92 6.229s6.252-4.406 8.869-6.229z"/></svg></a>
+  <a href = mailto:"lamajunitaa@gmail.com><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0yMi4yODggMjFoLTIwLjU3NmMtLjk0NSAwLTEuNzEyLS43NjctMS43MTItMS43MTJ2LTEzLjU3NmMwLS45NDUuNzY3LTEuNzEyIDEuNzEyLTEuNzEyaDIwLjU3NmMuOTQ1IDAgMS43MTIuNzY3IDEuNzEyIDEuNzEydjEzLjU3NmMwIC45NDUtLjc2NyAxLjcxMi0xLjcxMiAxLjcxMnptLTEwLjI4OC02LjA4NmwtOS4zNDItNi40ODMtLjAyIDExLjU2OWgxOC42ODR2LTExLjU2OWwtOS4zMjIgNi40ODN6bTguODY5LTkuOTE0aC0xNy43ODlsOC45MiA2LjIyOXM2LjI1Mi00LjQwNiA4Ljg2OS02LjIyOXoiLz48L3N2Zz4="></a>
 </p>
 
 
