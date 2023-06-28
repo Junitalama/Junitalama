@@ -12,7 +12,8 @@
 <h3 align="left">Contact details:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/junita-lama-73b110252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href = mailto:"lamajunitaa@gmail.com>gmail</a>
+</p>
+ <p><a href = mailto:"lamajunitaa@gmail.com>gmail</a>
 </p>
 
 
