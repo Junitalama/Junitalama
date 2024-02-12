@@ -5,7 +5,9 @@
 
 <p align="center"> <img src="https://www.codewars.com/users/Junitalama/badges/large" alt="score" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 A software developer with experience in building Responsive and Scalable Web apps.
+
+Highly motivated software developer who has engaged in numerous web development projects individually and as a team. Experienced in various programming languages including HTML, CSS, JavaScript, React, Node js, Next.js, SQL. Willing to put 
 
 
 
