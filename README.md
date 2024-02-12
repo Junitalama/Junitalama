@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m a Trainee software developer at Code Your Future. 
+🔭 I’m a software developer with experience in building Responsive and Scalable Web apps. 
 <br/>
 
 <p align="center"> <img src="https://www.codewars.com/users/Junitalama/badges/large" alt="score" /> </p>
 
-- 🌱 A software developer with experience in building Responsive and Scalable Web apps.
 
 A highly motivated software developer who has engaged in numerous web development projects individually and as a team. Experienced in various programming languages and technologies including HTML, CSS, JavaScript, React, Node js, Next.js, PostgreSQL, Tailwind, Material UI, bootstrap, and AWS cloud.
 
